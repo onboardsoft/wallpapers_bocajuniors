@@ -2,21 +2,21 @@
   "wallpapers": [
     {
       "id": 1,
-      "title": "Paisaje de montaña",
+      "title": "Escudo 1",
       "category": "Naturaleza",
-      "imageUrl": "https://TU_USUARIO.github.io/wallpapers-app/images/paisaje.jpg"
+      "imageUrl": "https://onboardsoft.github.io/wallpapers_bocajuniors/images/escudo1.jpg"
     },
     {
       "id": 2,
-      "title": "Fondo anime",
+      "title": "Escudo 2",
       "category": "Anime",
-      "imageUrl": "https://TU_USUARIO.github.io/wallpapers-app/images/anime.jpg"
+      "imageUrl": "https://onboardsoft.github.io/wallpapers_bocajuniors/images/escudo2.jpg"
     },
     {
       "id": 3,
-      "title": "Espacio",
+      "title": "Escudo 3",
       "category": "Espacio",
-      "imageUrl": "https://TU_USUARIO.github.io/wallpapers-app/images/espacio.jpg"
+      "imageUrl": "https://onboardsoft.github.io/wallpapers_bocajuniors/images/escudo3.jpg"
     }
   ]
 }
