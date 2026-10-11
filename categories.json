@@ -4,7 +4,7 @@
       "id": "Escudo",
       "name": "Escudo",
       "description": "Escudo Boca",
-      "imageUrl": "https://raw.githubusercontent.com/onboardsoft/wallpaper-catalog/main/images/fondos/montana_01.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/onboardsoft/wallpapers_bocajuniors/images/escudo1.jpg",
       "enabled": true,
       "order": 1
     },
@@ -12,7 +12,7 @@
       "id": "Bombonera",
       "name": "Bombonera",
       "description": "Estadio La Bombonera",
-      "imageUrl": "https://raw.githubusercontent.com/onboardsoft/wallpaper-catalog/main/images/fondos/abstracto_01.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/onboardsoft/wallpapers_bocajuniors/images/escudo1.jpg",
       "enabled": true,
       "order": 2
     },
