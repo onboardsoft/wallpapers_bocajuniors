@@ -3,20 +3,23 @@
     {
       "id": 1,
       "title": "Escudo 1",
-      "category": "Naturaleza",
-      "imageUrl": "https://onboardsoft.github.io/wallpapers_bocajuniors/images/escudo1.jpg"
+      "category": "Classic",
+      "imageUrl": "https://onboardsoft.github.io/wallpapers_bocajuniors/images/escudo1.jpg",
+      "descripcion": "Escudo de boca"
     },
     {
       "id": 2,
       "title": "Escudo 2",
-      "category": "Anime",
-      "imageUrl": "https://onboardsoft.github.io/wallpapers_bocajuniors/images/escudo2.jpg"
+      "category": "Classic",
+      "imageUrl": "https://onboardsoft.github.io/wallpapers_bocajuniors/images/escudo2.jpg",
+      "descripcion": "Escudo de boca"
     },
     {
       "id": 3,
       "title": "Escudo 3",
-      "category": "Espacio",
-      "imageUrl": "https://onboardsoft.github.io/wallpapers_bocajuniors/images/escudo3.jpg"
+      "category": "Classic",
+      "imageUrl": "https://onboardsoft.github.io/wallpapers_bocajuniors/images/escudo3.jpg",
+      "descripcion": "Escudo de boca"
     }
   ]
 }
