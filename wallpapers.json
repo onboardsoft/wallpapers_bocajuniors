@@ -3,21 +3,21 @@
     {
       "id": 1,
       "title": "Escudo 1",
-      "category": "Classic",
+      "category": "Escudo",
       "imageUrl": "https://onboardsoft.github.io/wallpapers_bocajuniors/images/escudo1.jpg",
       "descripcion": "Escudo de boca"
     },
     {
       "id": 2,
       "title": "Escudo 2",
-      "category": "Classic",
+      "category": "Escudo",
       "imageUrl": "https://onboardsoft.github.io/wallpapers_bocajuniors/images/escudo2.jpg",
       "descripcion": "Escudo de boca"
     },
     {
       "id": 3,
       "title": "Escudo 3",
-      "category": "Classic",
+      "category": "Escudo",
       "imageUrl": "https://onboardsoft.github.io/wallpapers_bocajuniors/images/escudo3.jpg",
       "descripcion": "Escudo de boca"
     }
