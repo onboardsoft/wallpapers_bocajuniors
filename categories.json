@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "id": "Escudo",
+      "name": "Escudo",
+      "description": "Escudo Boca",
+      "imageUrl": "https://raw.githubusercontent.com/TU_USUARIO/wallpaper-catalog/main/images/fondos/montana_01.jpg",
+      "enabled": true,
+      "order": 1
+    },
+    {
+      "id": "Bombonera",
+      "name": "Bombonera",
+      "description": "Estadio La Bombonera",
+      "imageUrl": "https://raw.githubusercontent.com/TU_USUARIO/wallpaper-catalog/main/images/fondos/abstracto_01.jpg",
+      "enabled": true,
+      "order": 2
+    },
+    {
+      "id": "Jugadores",
+      "name": "Jugadores",
+      "description": "Fondos de Jugadores",
+      "imageUrl": "https://raw.githubusercontent.com/TU_USUARIO/wallpaper-catalog/main/images/fondos/minimalista_01.jpg",
+      "enabled": true,
+      "order": 3
+    },
+    {
+      "id": "Hinchada",
+      "name": "Hinchada",
+      "description": "Fondos de la Hinchada",
+      "imageUrl": "https://raw.githubusercontent.com/TU_USUARIO/wallpaper-catalog/main/images/fondos/espacio_01.jpg",
+      "enabled": true,
+      "order": 4
+    },
+    {
+      "id": "Campeonatos",
+      "name": "Campeonatos",
+      "description": "Fondos de Campeonatos",
+      "imageUrl": "https://raw.githubusercontent.com/TU_USUARIO/wallpaper-catalog/main/images/fondos/espacio_01.jpg",
+      "enabled": true,
+      "order": 5
+    }
+  ]
+}
