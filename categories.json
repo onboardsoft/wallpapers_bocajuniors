@@ -12,7 +12,7 @@
       "id": "Bombonera",
       "name": "Bombonera",
       "description": "Estadio La Bombonera",
-      "imageUrl": "https://raw.githubusercontent.com/onboardsoft/wallpapers_bocajuniors/images/escudo1.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/onboardsoft/wallpapers_bocajuniors/images/escudo2.jpg",
       "enabled": true,
       "order": 2
     },
@@ -20,7 +20,7 @@
       "id": "Jugadores",
       "name": "Jugadores",
       "description": "Fondos de Jugadores",
-      "imageUrl": "https://raw.githubusercontent.com/onboardsoft/wallpaper-catalog/main/images/fondos/minimalista_01.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/onboardsoft/wallpapers_bocajuniors/images/escudo3.jpg",
       "enabled": true,
       "order": 3
     },
@@ -28,7 +28,7 @@
       "id": "Hinchada",
       "name": "Hinchada",
       "description": "Fondos de la Hinchada",
-      "imageUrl": "https://raw.githubusercontent.com/onboardsoft/wallpaper-catalog/main/images/fondos/espacio_01.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/onboardsoft/wallpapers_bocajuniors/images/escudo4.jpg",
       "enabled": true,
       "order": 4
     },
@@ -36,7 +36,7 @@
       "id": "Campeonatos",
       "name": "Campeonatos",
       "description": "Fondos de Campeonatos",
-      "imageUrl": "https://raw.githubusercontent.com/onboardsoft/wallpaper-catalog/main/images/fondos/espacio_01.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/onboardsoft/wallpapers_bocajuniors/images/escudo5.jpg",
       "enabled": true,
       "order": 5
     }
