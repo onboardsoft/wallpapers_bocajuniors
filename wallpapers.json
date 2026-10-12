@@ -10,14 +10,14 @@
     {
       "id": 2,
       "title": "Escudo 2",
-      "category": "Escudo",
+      "category": "Bombonera",
       "imageUrl": "https://onboardsoft.github.io/wallpapers_bocajuniors/images/escudo2.jpg",
       "descripcion": "Escudo de boca"
     },
     {
       "id": 3,
       "title": "Escudo 3",
-      "category": "Escudo",
+      "category": "Jugadores",
       "imageUrl": "https://onboardsoft.github.io/wallpapers_bocajuniors/images/escudo3.jpg",
       "descripcion": "Escudo de boca"
     }
