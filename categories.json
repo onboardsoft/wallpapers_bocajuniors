@@ -9,8 +9,8 @@
       "order": 1
     },
     {
-      "id": "Bombonera",
-      "name": "Bombonera",
+      "id": "Estadio",
+      "name": "Estadio",
       "description": "Estadio La Bombonera",
       "imageUrl": "https://raw.githubusercontent.com/onboardsoft/wallpapers_bocajuniors/images/escudo2.jpg",
       "enabled": true,
