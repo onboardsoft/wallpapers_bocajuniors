@@ -2,23 +2,37 @@
   "wallpapers": [
     {
       "id": 1,
-      "title": "Escudo 1",
+      "title": "Escudo Boca Juniors",
       "category": "Escudo",
-      "imageUrl": "https://onboardsoft.github.io/wallpapers_bocajuniors/images/escudo1.jpg",
+      "imageUrl": "https://onboardsoft.github.io/wallpapers_bocajuniors/images/Escudo1.jpg",
       "descripcion": "Escudo de boca"
     },
     {
       "id": 2,
-      "title": "Escudo 2",
-      "category": "Bombonera",
-      "imageUrl": "https://onboardsoft.github.io/wallpapers_bocajuniors/images/escudo2.jpg",
-      "descripcion": "Escudo de boca"
+      "title": "Estadio La bombonera",
+      "category": "Estadio",
+      "imageUrl": "https://onboardsoft.github.io/wallpapers_bocajuniors/images/Estadio1.jpg",
+      "descripcion": "Estadio de boca"
     },
     {
       "id": 3,
-      "title": "Escudo 3",
-      "category": "Jugadores",
-      "imageUrl": "https://onboardsoft.github.io/wallpapers_bocajuniors/images/escudo3.jpg",
+      "title": "Hinchada boca",
+      "category": "Hinchada",
+      "imageUrl": "https://onboardsoft.github.io/wallpapers_bocajuniors/images/Hinchada1.jpg",
+      "descripcion": "Hichada de boca"
+    },
+    {
+      "id": 4,
+      "title": "Campeonato boca",
+      "category": "Campeonatos",
+      "imageUrl": "https://onboardsoft.github.io/wallpapers_bocajuniors/images/Campeonato1.jpg",
+      "descripcion": "Campeonato de boca"
+    },
+    {
+      "id": 5,
+      "title": "Escudo Boca",
+      "category": "Escudo",
+      "imageUrl": "https://onboardsoft.github.io/wallpapers_bocajuniors/images/Escudo2.jpg",
       "descripcion": "Escudo de boca"
     }
   ]
